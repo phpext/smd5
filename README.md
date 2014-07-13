@@ -12,7 +12,7 @@ MD5解密 - 学习例子
 make && make install
 ```
 
-##默认配置：
+###默认配置：
 smd5.decrypt_url=http://tool.zzblo.com/api/md5/decrypt  
 smd5.encrypt_url=http://tool.zzblo.com/api/md5/encrypt  
 你也可以在php.ini中更改该API ，API格式可参考这篇文章:http://silenceper.com/archives/1145.html
