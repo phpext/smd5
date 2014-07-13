@@ -19,7 +19,7 @@ smd5.encrypt_url=http://tool.zzblo.com/api/md5/encrypt
 
 使用方法：
 ====
-提供了md5_encrypt、md5_decrypt两个MD5加密以及解密方法
+提供了md5_encrypt、md5_decrypt方法,分别用于MD5加密、解密
 ```php
 <?php
     $secret=md5_encrypt("Wenz");
