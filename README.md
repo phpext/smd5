@@ -1,7 +1,6 @@
-smd5
+smd5[学习用]
 ====
 
-MD5解密 - 学习例子  
 通过curl请求http://tool.zzblo.com/api/md5/encrypt，http://tool.zzblo.com/api/md5/decrypt 达到解密的目的.
 
 安装：
